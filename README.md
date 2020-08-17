@@ -1,0 +1,2 @@
+# pythonWebService
+PythonではじめるWebサービス＆スマホアプリの書きかた・作りかたをやったときの演習リポジトリ
